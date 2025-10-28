@@ -11,7 +11,7 @@ baseurl: ""
 
 # Opciones del tema
 search_enabled: true
-color_scheme: nil # o "dark" si prefieren oscuro por defecto
+color_scheme: dark
 
 # Links auxiliares en el header
 aux_links:

@@ -5,12 +5,22 @@ nav_order: 1
 
 # Melodia — Bitácora del Proyecto
 
-Bienvenidos a la documentación incremental del Trabajo Práctico de Ingeniería de Software 2 (FIUBA).
-Este sitio sirve como bitácora viva del proyecto "Melodia", una aplicación mobile tipo Spotify.
+<p align="center">
+	<img src="assets/img/logo.png" alt="Logo Melodia" width="96" height="96">
+  
+</p>
 
-- Repositorio del sitio: [is2-tp-melodia.github.io](https://github.com/is2-tp-melodia/is2-tp-melodia.github.io)
-- Materia: IS2 — FIUBA
-- Equipo: Completar integrantes, roles y contacto
+Este sitio sirve como bitácora viva y documentación del proyecto **Melodia**, una aplicación mobile tipo Spotify para la materia Ingeniería de Software II (TA049), FIUBA.
+
+**Integrantes:**
+
+| Nombre | Padrón |
+|---|---|
+| Victoria Avalos | 108434 |
+| Tomás Lofano | - |
+| Tomás Caporaletti | 108598 |
+| Facundo Gerez | 109429 |
+| Camila Fernández Marchitelli | - |
 
 ## Cómo navegar esta bitácora
 
@@ -35,4 +45,4 @@ Consulta el detalle en la sección Entregas, pero aquí dejamos un resumen de av
 - Mantener el contenido breve y accionable. Agregar referencias cuando aplique.
 - Para cambios mayores (p.ej., nueva decisión de arquitectura), agregar/actualizar el ADR correspondiente en la sección Decisiones.
 - Incluir diagramas con Mermaid (ver ejemplos en Arquitectura) o imágenes en `assets/img`.
-
+- Repositorio del sitio: [is2-tp-melodia.github.io](https://github.com/is2-tp-melodia/is2-tp-melodia.github.io)
