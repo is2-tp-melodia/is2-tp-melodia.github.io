@@ -1,0 +1,37 @@
+title: "Melodia — Bitácora de Proyecto (IS2 - FIUBA)"
+description: "Documentación incremental del Trabajo Práctico de Ingeniería de Software 2 (FIUBA). App mobile tipo Spotify."
+# Tema de documentación con navegación lateral
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+# URL del sitio (se actualiza automáticamente en GitHub Pages, pero sirve localmente)
+url: "https://is2-tp-melodia.github.io"
+baseurl: ""
+
+# Opciones del tema
+search_enabled: true
+color_scheme: nil # o "dark" si prefieren oscuro por defecto
+
+# Links auxiliares en el header
+aux_links:
+  "Repositorio en GitHub":
+    - "https://github.com/is2-tp-melodia/is2-tp-melodia.github.io"
+
+# Footer (editable)
+footer_content: "© #{Time.now.year} Equipo Melodia — FIUBA IS2"
+
+# Navegación: se ordena con front matter (nav_order)
+# No definimos una sidebar manual; cada página controla su posición.
+
+# Archivos/paths que se deben incluir en el build
+include:
+  - _pages
+  - _includes
+
+# Markdown engine
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Nota: Mermaid se habilita via _includes/head_custom.html
