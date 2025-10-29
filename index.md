@@ -6,7 +6,7 @@ nav_order: 1
 # Melodia — Bitácora del Proyecto
 
 <p align="center">
-	<img src="assets/img/logo.png" alt="Logo Melodia" width="96" height="96">
+	<img src="assets/img/logo.png" alt="Logo Melodia" width="90" height="90">
   
 </p>
 
@@ -17,15 +17,15 @@ Este sitio sirve como bitácora viva y documentación del proyecto **Melodia**, 
 | Nombre | Padrón |
 |---|---|
 | Victoria Avalos | 108434 |
-| Tomás Lofano | - |
+| Tomás Lofano | 101721 |
 | Tomás Caporaletti | 108598 |
 | Facundo Gerez | 109429 |
-| Camila Fernández Marchitelli | - |
+| Camila Fernández Marchitelli | 102515 |
 
 ## Cómo navegar esta bitácora
 
 - Arquitectura: visión, contexto, diagramas y despliegue.
-- Decisiones de arquitectura: ADRs y racionales técnicas.
+- Decisiones: ADRs y racionales técnicas.
 - Estado y errores: funcionalidades completas/incompletas, errores conocidos, deuda técnica.
 - Lecciones aprendidas: problemas encontrados y aprendizajes.
 - Demos: capturas, videos e historias de usuario destacadas.
@@ -35,10 +35,10 @@ Este sitio sirve como bitácora viva y documentación del proyecto **Melodia**, 
 
 Consulta el detalle en la sección Entregas, pero aquí dejamos un resumen de avance estimado:
 
-- [Entrega 1](entregas/cp1): ☐ Pendiente ☐ En curso ☐ Listo
-- [Entrega 2](entregas/cp2): ☐ Pendiente ☐ En curso ☐ Listo
-- [Entrega 3](entregas/cp3): ☐ Pendiente ☐ En curso ☐ Listo
-- [Entrega 4](entregas/cp4): ☐ Pendiente ☐ En curso ☐ Listo
+- [Entrega 1](entregas/cp1): ☐ Pendiente ☐ En curso ☑ Listo
+- [Entrega 2](entregas/cp2): ☐ Pendiente ☐ En curso ☑ Listo
+- [Entrega 3](entregas/cp3): ☐ Pendiente ☑ En curso ☐ Listo
+- [Entrega 4](entregas/cp4): ☑ Pendiente ☐ En curso ☐ Listo
 
 ## Cómo contribuir a la documentación
 
