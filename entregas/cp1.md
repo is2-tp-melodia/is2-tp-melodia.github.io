@@ -105,4 +105,6 @@ Para la primer entrega, separamos las tareas a las que nos comprometimos en "Tar
 ## Próximos pasos
 
 - Definir historias comprometidas para E2
+- Implementar API Gateway
+- Comenzar con Melodia-AI
 
