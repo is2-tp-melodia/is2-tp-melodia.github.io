@@ -8,8 +8,7 @@ nav_order: 3
 
 ## Tareas comprometidas del checkpoint
 
-- Pulir features principales y UX
-- Estabilizar performance y observabilidad
+-
 
 ## Estado al finalizar el checkpoint
 

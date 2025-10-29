@@ -5,15 +5,15 @@ nav_order: 2
 
 # Arquitectura
 
-Describe la arquitectura objetivo y su evolución a lo largo del proyecto. Incluye contexto, componentes, integración y despliegue.
+Describe la arquitectura objetivo y su evolución a lo largo del proyecto. 
 
-## Visión y contexto
+## Servicios
 
 - Objetivo del sistema: streaming de música tipo Spotify para mobile.
 - Usuarios principales: oyentes, artistas, admins.
 - Restricciones y supuestos: latencia baja para reproducción, disponibilidad alta, presupuesto acotado, NFRs clave (rendimiento, escalabilidad, observabilidad, seguridad).
 
-## Diagrama de Contexto (C4 - Nivel 1)
+## Modelos de Datos
 
 Usa Mermaid para diagramas rápidos. Ejemplo de diagrama de contexto:
 

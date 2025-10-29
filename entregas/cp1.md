@@ -6,7 +6,7 @@ nav_order: 1
 
 # Entrega 1 — Alcance y avances
 
-Para la primer entrega, separamos las tareas a las que nos comprometimos en "Tareas/Historias implícitas" y "Tareas/Historias explícitas", ya que esta entrega implicó muchas cuestiones operativas y de configuración (crear y configurar los repositorios con todo lo necesario, hostear nuestros servicios y las bases de datos, desplegar coverage, etc).
+Para la primer entrega, separamos las tareas a las que nos comprometimos en "Tareas/Historias implícitas" y "Tareas/Historias explícitas", ya que esta entrega implicó muchas cuestiones operativas y de configuración (crear y configurar los repositorios con todo lo necesario, hostear nuestros servicios y las bases de datos, desplegar coverage, etc). Se comenzó con el desarrollo de la aplicación y con los servicios de Melodia-Auth y Melodia-Core.
 
 ## Tareas comprometidas del checkpoint
 
