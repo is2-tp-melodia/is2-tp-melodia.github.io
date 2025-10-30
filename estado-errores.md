@@ -1,6 +1,6 @@
 ---
 title: Estado, funcionalidades y errores
-nav_order: 4
+nav_order: 3
 ---
 
 # Estado del proyecto: funcionalidades y errores

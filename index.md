@@ -24,8 +24,7 @@ Este sitio sirve como bitácora viva y documentación del proyecto **Melodia**, 
 
 ## Cómo navegar esta bitácora
 
-- Arquitectura: visión, contexto, diagramas y despliegue.
-- Decisiones: ADRs y racionales técnicas.
+- Arquitectura: tecnologías, diagramas y decisiones tomadas.
 - Estado y errores: funcionalidades completas/incompletas, errores conocidos, deuda técnica.
 - Lecciones aprendidas: problemas encontrados y aprendizajes.
 - Demos: capturas, videos e historias de usuario destacadas.

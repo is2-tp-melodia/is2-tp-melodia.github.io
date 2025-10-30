@@ -5,8 +5,7 @@ Este repositorio publica la documentación del TP "Melodia" como sitio de GitHub
 ## Estructura
 
 - `index.md`: portada del sitio y guía de navegación
-- `arquitectura.md`: visión, diagramas (Mermaid) y despliegue
-- `decisiones.md`: decisiones de arquitectura (ADRs)
+- `arquitectura.md`: diagramas y decisiones tomadas
 - `estado-errores.md`: funcionalidades completas/incompletas y errores conocidos
 - `lecciones.md`: problemas encontrados y lecciones aprendidas
 - `demos.md`: demos y showcases (opcional)

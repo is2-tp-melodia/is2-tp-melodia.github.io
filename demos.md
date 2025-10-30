@@ -1,6 +1,6 @@
 ---
 title: Demos y showcases
-nav_order: 6
+nav_order: 5
 ---
 
 # Demos y showcases (opcional)
