@@ -6,8 +6,8 @@ nav_order: 1
 # Melodia — Bitácora del Proyecto
 
 <p align="center">
-	<img src="assets/img/logo.png" alt="Logo Melodia" width="90" height="90">
-  
+	<img src="assets/img/header.png" alt="Header Melodia" style="max-width:100%; height:auto; display:block; margin:0 auto 10px;">
+
 </p>
 
 Este sitio sirve como bitácora viva y documentación del proyecto **Melodia**, una aplicación mobile tipo Spotify para la materia Ingeniería de Software II (TA049), FIUBA.
@@ -36,8 +36,8 @@ Consulta el detalle en la sección Entregas, pero aquí dejamos un resumen de av
 
 - [Entrega 1](entregas/cp1): ☐ Pendiente ☐ En curso ☑ Listo
 - [Entrega 2](entregas/cp2): ☐ Pendiente ☐ En curso ☑ Listo
-- [Entrega 3](entregas/cp3): ☐ Pendiente ☑ En curso ☐ Listo
-- [Entrega 4](entregas/cp4): ☑ Pendiente ☐ En curso ☐ Listo
+- [Entrega 3](entregas/cp3): ☐ Pendiente ☐ En curso ☑ Listo
+- [Entrega 4](entregas/cp4): ☐ Pendiente ☑ En curso ☐ Listo
 
 ## Cómo contribuir a la documentación
 
@@ -45,3 +45,8 @@ Consulta el detalle en la sección Entregas, pero aquí dejamos un resumen de av
 - Para cambios mayores (p.ej., nueva decisión de arquitectura), agregar/actualizar el ADR correspondiente en la sección Decisiones.
 - Incluir diagramas con Mermaid (ver ejemplos en Arquitectura) o imágenes en `assets/img`.
 - Repositorio del sitio: [is2-tp-melodia.github.io](https://github.com/is2-tp-melodia/is2-tp-melodia.github.io)
+
+<p align="center">
+	<img src="assets/img/logo.png" alt="Logo Melodia" width="90" height="90">
+  
+</p>
