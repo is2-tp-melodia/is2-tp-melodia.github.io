@@ -3,6 +3,11 @@ title: Inicio
 nav_order: 1
 ---
 
+<p align="center">
+	<img src="assets/img/logo.png" alt="Logo Melodia" width="90" height="90">
+  
+</p>
+
 # Melodia — Bitácora del Proyecto
 
 <p align="center">
