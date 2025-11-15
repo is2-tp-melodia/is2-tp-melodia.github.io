@@ -4,14 +4,14 @@ nav_order: 1
 ---
 
 <p align="center">
-	<img src="assets/img/logo.png" alt="Logo Melodia" width="80" height="80">
+	<img src="assets/img/header.png" alt="Header Melodia" style="max-width:100%; height:auto; display:block; margin:0 auto 10px;">
+
 </p>
 
 # Melodia — Bitácora del Proyecto
 
 <p align="center">
-	<img src="assets/img/header.png" alt="Header Melodia" style="max-width:100%; height:auto; display:block; margin:0 auto 10px;">
-
+	<img src="assets/img/logo.png" alt="Logo Melodia" width="80" height="80">
 </p>
 
 Este sitio sirve como bitácora viva y documentación del proyecto **Melodia**, una aplicación mobile tipo Spotify para la materia Ingeniería de Software II (TA049), FIUBA.
