@@ -8,7 +8,7 @@ nav_order: 2
 
 ## Tareas comprometidas del checkpoint
 
-Para esta entrega se comenzó a incorporar el servicio de Melodia-AI, se implementó Melodia-Gateway y se avanzó y profundizó con Melodia-Core y con la aplicación.
+Para esta entrega se comenzó a incorporar el servicio de Melodia-AI, se implementó Melodia-Gateway y se avanzó y profundizó con Melodia-Core y con la aplicación. Además, se comenzó a utilizar Datadog como herramienta de monitoreo.
 
 ### Épica: Reproducción
 **Reproducción y Controles Básicos**

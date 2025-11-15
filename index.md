@@ -4,8 +4,7 @@ nav_order: 1
 ---
 
 <p align="center">
-	<img src="assets/img/logo.png" alt="Logo Melodia" width="90" height="90">
-  
+	<img src="assets/img/logo.png" alt="Logo Melodia" width="80" height="80">
 </p>
 
 # Melodia — Bitácora del Proyecto
@@ -51,7 +50,3 @@ Consulta el detalle en la sección Entregas, pero aquí dejamos un resumen de av
 - Incluir diagramas con Mermaid (ver ejemplos en Arquitectura) o imágenes en `assets/img`.
 - Repositorio del sitio: [is2-tp-melodia.github.io](https://github.com/is2-tp-melodia/is2-tp-melodia.github.io)
 
-<p align="center">
-	<img src="assets/img/logo.png" alt="Logo Melodia" width="90" height="90">
-  
-</p>

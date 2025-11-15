@@ -18,7 +18,7 @@ Este repositorio publica la documentación del TP "Melodia" como sitio de GitHub
 
 Este repositorio está listo para GitHub Pages usando el tema "just-the-docs" (remote theme). Al hacer push en `main`, GitHub genera y publica el sitio automáticamente.
 
-URL esperada: https://is2-tp-melodia.github.io
+URL de la página: https://is2-tp-melodia.github.io
 
 
 ## Cómo editar contenido
