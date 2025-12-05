@@ -13,20 +13,20 @@ Para esta entrega se comenzó a incorporar el servicio de Melodia-AI, se impleme
 ### Épica: Reproducción
 **Reproducción y Controles Básicos**
 - App: Creación de pantalla de reproductor
-- App: Manejo de estado de reproductor: Tomi L
-- App: Conexión con backend para conseguir track: Tomi L
+- App: Manejo de estado de reproductor
+- App: Conexión con backend para conseguir track
 - Core: Upload y almacenamiento de canciones, endpoint de creación de canciones
 - Core: Distribución de tracks
-- Controles avanzados del Player: Tomi L
+- Controles avanzados del Player
 
 **Gestión de cola**
-- App: Manejo de estados: Tomi L
+- App: Manejo de estados
 - App: Pantalla de navegación por canciones + Agregado al estado
 - Core: Endpoint para listar canciones
 
 **Marcado de Liked Songs desde el Player**
-- App: Integración con backend para registrar interacción: Tomi L
-- AI: Endpoint para capturar Liked + Reproducción de canciones: Vicky
+- App: Integración con backend para registrar interacción
+- AI: Endpoint para capturar Liked + Reproducción de canciones: 
 
 **Videos Musicales Asociados → OPCIONAL**
 - App: consumir videos además de contenido sonoro
@@ -35,7 +35,7 @@ Para esta entrega se comenzó a incorporar el servicio de Melodia-AI, se impleme
 
 **Reproducción Continua (autoplay) [IA] → OPCIONAL**
 - App: Conectar con Melodia AI para informar canción actual y recibir próximas canciones
-- AI: Endpoint para recomendar próximas canciones en base a canción brindada: Cami
+- AI: Endpoint para recomendar próximas canciones en base a canción brindada: 
 
 ### Épica: Observabilidad
 - Datadog / Alertas sobre uso / Métricas de uso / Logs 
@@ -50,7 +50,7 @@ Para esta entrega se comenzó a incorporar el servicio de Melodia-AI, se impleme
 - AI: Liked Songs
 
 **Discografía**
-- Core: Retornar discografía de un artista: Tomi C
+- Core: Retornar discografía de un artista: 
 - App: Mostrar discografía del artista en la perfil
 - App: Conectar con el backend para conseguir la biografía del artista
 - Colaboraciones (Aparece en) →  OPCIONAL
@@ -60,21 +60,21 @@ Para esta entrega se comenzó a incorporar el servicio de Melodia-AI, se impleme
 **Popular (Top del artista)**
 - Core/AI: Retornar canciones populares del artista
 - App: Mostrar populares del artista en la su perfil
-- App: Conectar dentro del artista los populares desde la app contra el core: Facu
+- App: Conectar dentro del artista los populares desde la app contra el core: 
 
 **Artistas relacionados (Similares a)**
-- Core: Retornar artistas relacionados del artista: Vicky
+- Core: Retornar artistas relacionados del artista: 
 - App: Mostrar artistas relacionados al artista en la su perfil
-- App: Pedirle al backend que corresponda los datos: Facu
+- App: Pedirle al backend que corresponda los datos: 
 
 **Gestión de perfil del artista**
 - App: Creación de pantalla para editar perfil de artista
 - Core: carrusel de imágenes
-- App: Conectar aplicación con backend: Facu
+- App: Conectar aplicación con backend: 
 
 **Publicación de lanzamientos**
-- App: pantalla para crear un release de draft: Tomi L
-- App: pantalla para subir una canción: Tomi L
+- App: pantalla para crear un release de draft
+- App: pantalla para subir una canción
 - Core: endpoints relacionados a tracks y releases
 
 **Disponibilidad por ventana →  OPCIONAL**
@@ -86,7 +86,7 @@ Para esta entrega se comenzó a incorporar el servicio de Melodia-AI, se impleme
 **Home**
 - Maqueta: Diseño de pantalla home
 - App: Implementación de pantalla home
-- AI: Respuesta de información inicial para llenar pantalla de home en la app: Cami
+- AI: Respuesta de información inicial para llenar pantalla de home en la app: 
 - Core: Endpoint para obtener infomación de canciones
 - App: Interactuar con backend para conseguir la información necesaria: Ayuda
 

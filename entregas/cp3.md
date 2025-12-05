@@ -15,81 +15,81 @@ Para esta entrega se terminaron de completar y pulir algunas cuestiones que hab�
 - App: Mejorar visualización de "agregar canciones a cola de reproducción"
 - App: Modo aleatorio
 - App: Modo repetir las canciones
-- App: Mover orden de las canciones en la cola de reproducción — VICKY
+- App: Mover orden de las canciones en la cola de reproducción 
 - App: Eliminar canciones de la cola de reproducción (verificar que esté listo)
 - App: Borrar todas las canciones de la cola de reproducción
 - App: Conectar con backend: conseguir recomendación de canción siguiente
-- AI: Darme canción recomendada siguiente — Cami
+- AI: Darme canción recomendada siguiente — 
 - App: Usar funcionalidad de obtener próxima canción recomendada
 - App: Cada vez que se reproduce una canción, avisarle a Melodia AI
-- AI: Endpoint para informar canción reproducida — Vicky
-- AI: Endpoint que indique todas las canciones likeadas — Vicky
+- AI: Endpoint para informar canción reproducida 
+- AI: Endpoint que indique todas las canciones likeadas 
 - App: Poder dar like desde el reproductor
 - App: Desde mi perfil -> Biblioteca -> visualización de canciones likeadas
-- App: Reproductor soporte videos musicales (opcional: opción para ver video, si no, solo audio) — FACU
-- App: Agregar un label al componente de canción indicando que el video está disponible — FACU
+- App: Reproductor soporte videos musicales (opcional: opción para ver video, si no, solo audio) — 
+- App: Agregar un label al componente de canción indicando que el video está disponible — 
 
 ### Épica: Artista
-- AI: Exponer datos de metricas de artistas: Vicky
+- AI: Exponer datos de metricas de artistas: 
 - App: Consumir y mostrar las metricas de reproducciones de un artista
-- App: Vista para ver todos los seguidores de un artista y que se navegue al perfil de cada seguidor : FACU
-- App: Desde el perfil de los artistas tiene que haber un boton que sea play del artista y que se cargue toda la discografia a la lista de reproduccion. Lo mismo con un botón que inice aletoreamente a reproducir todas las canciones de un artista: FACU
-- App: El layout de la vista de un artista tiene que ser: Popular → Liked Songs -> Artist Pick -> Discography → → About -> Appears On → Similar Artists : FACU
-- App: Mostrar en el perfil del artista la canciones a las que le dio like : FACU
-- App: Mostrar en el perfil del artista las canciones mas populares : FACU
-- AI: Disponibilidad endpoint para obtener las canciones likeadas de y populares: Vicky
-- IA: disponibilizar un endpoint que me de todas las canciones para mostrar en el perfil del artista apenas lo abro [populares, likeadas, etc] (cada categoria dentro de un objeto): Vicky
-- App: Consumir melodía AI para mostrar las canciones en el perfil del artista : FACU
-- App: Mostrar pestaña de discografia dentro de cada artista (hay requerimientos especiales para esto): FACU
+- App: Vista para ver todos los seguidores de un artista y que se navegue al perfil de cada seguidor : 
+- App: Desde el perfil de los artistas tiene que haber un boton que sea play del artista y que se cargue toda la discografia a la lista de reproduccion. Lo mismo con un botón que inice aletoreamente a reproducir todas las canciones de un artista: 
+- App: El layout de la vista de un artista tiene que ser: Popular → Liked Songs -> Artist Pick -> Discography → → About -> Appears On → Similar Artists : 
+- App: Mostrar en el perfil del artista la canciones a las que le dio like : 
+- App: Mostrar en el perfil del artista las canciones mas populares : 
+- AI: Disponibilidad endpoint para obtener las canciones likeadas de y populares: 
+- IA: disponibilizar un endpoint que me de todas las canciones para mostrar en el perfil del artista apenas lo abro [populares, likeadas, etc] (cada categoria dentro de un objeto): 
+- App: Consumir melodía AI para mostrar las canciones en el perfil del artista : 
+- App: Mostrar pestaña de discografia dentro de cada artista (hay requerimientos especiales para esto): 
 - App: Modificar componente de release para que cumpla con la historia del usuario
 - App: Mostrar fecha, hora y cuenta regresiva de los upcoming releases
-- App: Agregar pestaña colaboraciones y conectar con el backend : FACU
+- App: Agregar pestaña colaboraciones y conectar con el backend : 
 - Core: Disponibilizar un endpoint de colaboraciones para un artista dado
-- IA: Disponibilizar endpoint para obtener los populares de un artista: Vicky
-- App: Agregar pestaña populares y mostrar su resultado (pedirlo desde melodia AI): FACU
-- App: Agregar botón para reproducir las canciones populares del artista : FACU
+- IA: Disponibilizar endpoint para obtener los populares de un artista: 
+- App: Agregar pestaña populares y mostrar su resultado (pedirlo desde melodia AI): 
+- App: Agregar botón para reproducir las canciones populares del artista : 
 - Core: Proveer datos de artistas similares
-- App: Agregar pestaña y conectar artistas similares-relacionados : FACU
-- App: perfil del artista tiene que mostrar la bio, redes sociales, y toda la metadata disponible: FACU
-- App: Agregar boton al perfil del artista, que te lleva al perfil usuario de dicho artista (Al editar no(?)) : FACU
-- App: agregar dentro del perfil usuario la lista de canciones likeadas: FACU
-- App: Edición del Carrusel de imágenes: FACU
+- App: Agregar pestaña y conectar artistas similares-relacionados : 
+- App: perfil del artista tiene que mostrar la bio, redes sociales, y toda la metadata disponible: 
+- App: Agregar boton al perfil del artista, que te lleva al perfil usuario de dicho artista (Al editar no(?)) : 
+- App: agregar dentro del perfil usuario la lista de canciones likeadas: 
+- App: Edición del Carrusel de imágenes: 
 - App: Edición de datos de un release
 
 ### Épica: Explorar
-- IA: Endpoint que devuelva las recomendaciones para mostrar en la home: Cami
-- App: Consumir endpoint del melodia AI para mostrar  en la home :  FACU
+- IA: Endpoint que devuelva las recomendaciones para mostrar en la home: 
+- App: Consumir endpoint del melodia AI para mostrar  en la home :  
 - Melodia AI: Disponibilizar endpoint que devuelva mis 8 canciones mas escuchadas, no incluir las likeadas
-- App: Armar sección de Mis Atajos en la home (consumir endpoint de canciones likeadas y endpoint de mis canciones mas escuchadas) :  Cami
+- App: Armar sección de Mis Atajos en la home (consumir endpoint de canciones likeadas y endpoint de mis canciones mas escuchadas) :  
 - Core: Endpoint que devuelva album de artista que estoy siguiendo y esta por sacar musica
-- App: Mostrar en la home seccion de proximo release de artista (consumir endpoint de melodia core):  CAMI
+- App: Mostrar en la home seccion de proximo release de artista (consumir endpoint de melodia core):  
 - AI: disponibilizar endpoint para preguntar por mis últimas canciones escuchadas
-- App: Mostrar en la home seccion de ultimas canciones escuchadas (consumir de melodia AI):  CAMI Y FACU
+- App: Mostrar en la home seccion de ultimas canciones escuchadas (consumir de melodia AI):   Y 
 - App: seccion de Discover more from artist en la home (esto es elegir un artista al azar de los artistas que estoy siguiendo y mostrar mas de su catalogo)
 - AI: Disponibilizar endpoint “Made For You”, ver CA para mas informacion
 - App: Consumir y mostrar en la home el Made For You
-- App: En pantalla de busqueda, hacer que cuando me muevo de pestaña el contenido si filtra segun la opcion seleccionada:FACU
-- Core: que el endpoint de busqueda busque perfil por nombre y apellido, artista por nombre artistico, playlist publicas por nombre, nombre de release y canciones: Vicky
+- App: En pantalla de busqueda, hacer que cuando me muevo de pestaña el contenido si filtra segun la opcion seleccionada:
+- Core: que el endpoint de busqueda busque perfil por nombre y apellido, artista por nombre artistico, playlist publicas por nombre, nombre de release y canciones: 
 
 ### Épica: Biblioteca
-- App: En pantalla de mi perfil de usuario, tengo que tener una sección para ver mis playlists: CAMI
-- App: hacer pantalla de detalle de playlist :CAMI
+- App: En pantalla de mi perfil de usuario, tengo que tener una sección para ver mis playlists: 
+- App: hacer pantalla de detalle de playlist :
 - Core: disponibilizar endpoint para crear playlist
 - Core: Disponibilizar endpoint para agregar/borrar canciones a las playlist
 - Core: Disponibilizar endpoint para que una playlist sea publico
 - Core: Disponibilizar endpoint para borrar una playlist
 - App: Implementar interacciones con las playlist
-- App: Que el componente de cancion permita agregarla a una playlist:FACU
+- App: Que el componente de cancion permita agregarla a una playlist:
 - Core: Disponibilizar endpoint para mostrar todas la playlist de un usuario
 - Core: Disponibilizar endpoint para cambiar el orden de las canciones de una playlist
-- App: Agregar funcionalidad para reordenar canciones de una playlist en el reproductor :FACU
-- IA: Crear un endpoint que me devuelva todas las canciones que escuche: Vicky
+- App: Agregar funcionalidad para reordenar canciones de una playlist en el reproductor :
+- IA: Crear un endpoint que me devuelva todas las canciones que escuche: 
 - App: En la biblioteca mostrar seccion de canciones escuchadas
 - App: Agregar algún tipo de barra de busqueda sobre las canciones de mi historial
-- AI: Disponibilizar endpoint para borrar el historial de un usuario: Vicky
+- AI: Disponibilizar endpoint para borrar el historial de un usuario: 
 - App: Ofrecer la posibilidad de borrar todas las canciones de un usuario
 - App: Mostrar desde la biblioteca todas las canciones likeadas
-- AI: Disponibilizar endpoint para ver todas las canciones a las que un usuario le dio like: Cami
+- AI: Disponibilizar endpoint para ver todas las canciones a las que un usuario le dio like: 
 
 ### Épica: Notificaciones
 - Notifis: Crear un nuevo servicio que envie notificaciones (?) 

@@ -3,15 +3,11 @@ title: Inicio
 nav_order: 1
 ---
 
-<p align="center">
-	<img src="assets/img/header.png" alt="Header Melodia" style="max-width:100%; height:auto; display:block; margin:0 auto 10px;">
-
-</p>
-
 # Melodia — Bitácora del Proyecto
 
 <p align="center">
-	<img src="assets/img/logo.png" alt="Logo Melodia" width="80" height="80">
+	<img src="assets/img/header.png" alt="Header Melodia" style="max-width:100%; height:auto; display:block; margin:0 auto 10px;">
+
 </p>
 
 Este sitio sirve como bitácora viva y documentación del proyecto **Melodia**, una aplicación mobile tipo Spotify para la materia Ingeniería de Software II (TA049), FIUBA.
@@ -32,7 +28,7 @@ Este sitio sirve como bitácora viva y documentación del proyecto **Melodia**, 
 - Estado y errores: funcionalidades completas/incompletas, errores conocidos, deuda técnica.
 - Lecciones aprendidas: problemas encontrados y aprendizajes.
 - Demos: capturas, videos e historias de usuario destacadas.
-- Entregas: documentación incremental por checkpoint (1 a 4).
+- Entregas: tareas realizadas por checkpoint (1 a 4). Las optativas realizadas se encuentran en el último endpoint.
 
 ## Checklist de avance por entregas
 
@@ -45,8 +41,9 @@ Consulta el detalle en la sección Entregas, pero aquí dejamos un resumen de av
 
 ## Cómo contribuir a la documentación
 
-- Mantener el contenido breve y accionable. Agregar referencias cuando aplique.
-- Para cambios mayores (p.ej., nueva decisión de arquitectura), agregar/actualizar el ADR correspondiente en la sección Decisiones.
-- Incluir diagramas con Mermaid (ver ejemplos en Arquitectura) o imágenes en `assets/img`.
 - Repositorio del sitio: [is2-tp-melodia.github.io](https://github.com/is2-tp-melodia/is2-tp-melodia.github.io)
+- Las imágenes se deben agregar en `assets/img`
 
+<p align="center">
+	<img src="assets/img/logo.png" alt="Logo Melodia" width="80" height="80">
+</p>

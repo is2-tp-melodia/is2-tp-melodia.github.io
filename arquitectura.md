@@ -45,7 +45,6 @@ Explicación de groq y del modelo ... COMPLETAR
 
 Explicación de Firebase ... COMPLETAR
 
-## Modelos de Datos
 
 
 
