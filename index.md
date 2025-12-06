@@ -14,12 +14,12 @@ Este sitio sirve como bitácora viva y documentación del proyecto **Melodia**, 
 
 **Integrantes:**
 
-| Nombre | Padrón |
-|---|---|
-| Victoria Avalos | 108434 |
-| Tomás Lofano | 101721 |
-| Tomás Caporaletti | 108598 |
-| Facundo Gerez | 109429 |
+| Nombre                       | Padrón |
+| ---------------------------- | ------ |
+| Victoria Avalos              | 108434 |
+| Tomás Lofano                 | 101721 |
+| Tomás Caporaletti            | 108598 |
+| Facundo Gerez                | 109429 |
 | Camila Fernández Marchitelli | 102515 |
 
 ## Cómo navegar esta bitácora
@@ -37,7 +37,7 @@ Consulta el detalle en la sección Entregas, pero aquí dejamos un resumen de av
 - [Entrega 1](entregas/cp1): ☐ Pendiente ☐ En curso ☑ Listo
 - [Entrega 2](entregas/cp2): ☐ Pendiente ☐ En curso ☑ Listo
 - [Entrega 3](entregas/cp3): ☐ Pendiente ☐ En curso ☑ Listo
-- [Entrega 4](entregas/cp4): ☐ Pendiente ☑ En curso ☐ Listo
+- [Entrega 4](entregas/cp4): ☐ Pendiente ☐ En curso ☑ Listo
 
 ## Cómo contribuir a la documentación
 
