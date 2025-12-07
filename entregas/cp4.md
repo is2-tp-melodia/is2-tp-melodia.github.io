@@ -79,8 +79,8 @@ Para esta entrega se implementó el BackOffice junto con todas sus funcionalidad
 
 ### Épica: Biblioteca 
 - Creación Asistida de ‘Mood Mixes’ (IA) 
-    - App: agregar botón de ‘Crear Mood Mix’ -> al apretarlo se le muestra  una selección de canciones
-    - AI: endpoint que devuelva una selección de canciones recomendadas en base a historial y me gustas
+    - App: agregar botón de ‘Crear Mood Mix’ -> al apretarlo se le muestra  una selección de 5 canciones devueltas por groq, en base al contexto del usuario.
+    - AI: endpoint que devuelva una selección de canciones recomendadas en base a historial de reproducción, fecha y me gustas del usuario logueado
 
 ### Épica: Social
 - Compartir Canciones y Playlists
@@ -114,6 +114,21 @@ Para esta entrega se implementó el BackOffice junto con todas sus funcionalidad
 
 
 ## Estado al finalizar el checkpoint
+Para la entrega final se llegó con un 95% del trabajo terminado.
+Se logró cumplir con todas las historias de usuario obligatorias y las optativas elegidas.
+Lo que quedó sin terminar al 100% fue por cuestiones de errores o por falta de documentación.
+
+Lo que no llegamos a terminarlo al 100% para el día de la entrega fueron:
+- Backoffice: Funcionalidad de bloqueo.
+- Completar y terminar las documentaciones de todos los repositorios usados.
+- Terminar de pulir y completar la documentación general del proyecto.
 
 
 ## Resultados Finales
+Tuvimos un feedback muy positivo de parte del corrector y el equipo está muy contento con el trabajo realizado.
+
+Quedó una aplicación funcional y muy intuitiva para usarse.
+Generamos el APK de la aplicación para poder probarla desde un dispositivo android [link para descargar el ejecutable de la app.](https://drive.google.com/file/d/1qLcmX0kRMB33KR6B8vxkOgESAst7R9FS/view)
+
+También, se terminó toda la funcionalidad que nos faltaba del backoffice y la documentación quedó completa.
+
