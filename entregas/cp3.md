@@ -110,7 +110,7 @@ Para esta entrega se terminaron de completar y pulir algunas cuestiones que hab�
 
 ## Estado al finalizar el checkpoint
 
-Se pudo finalizar con las cuestioens que habían quedado pendientes de la entrega anterior con respecto a Reproducción y a Artista, y se pudieron implementar en su totalidad las épicas de Notificaciones y Explorar. Con respecto a la épica de Biblioteca, también se pudo implementar pero no se llegaron a integrar a la rama de main de la aplicación algunas funcionalidades para el día de la entrega. 
+Se pudo finalizar con las cuestiones que habían quedado pendientes de la entrega anterior con respecto a Reproducción y a Artista, y se pudieron implementar en su totalidad las épicas de Notificaciones y Explorar. Con respecto a la épica de Biblioteca, también se pudo implementar pero no se llegaron a integrar a la rama de main de la aplicación algunas funcionalidades para el día de la entrega. 
 
 ## Próximos pasos
 
