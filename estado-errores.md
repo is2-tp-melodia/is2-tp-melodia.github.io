@@ -159,12 +159,12 @@ Una cosa que notamos fuertemente fue en la baja de performance en la aplicacion 
 
 Si bien no tenemos errores criticos, si hemos notado que hay fallos ocurrentes que se nos han escapado de nuestros casos bases y hay algunos que no hemos podido cubrir. Algunos de ellos los hemos logrado mitigar pero otros sabemos que siguen presentes o que hay algunos que desconocemos y pueden surgir. Nos falto hacer mas pruebas manuales siendo nosotros nuestros propios usuarios pero creemos fielmente que nuestro trabajo sigue fielmente solido.
 
-## 🚀 Próximos pasos
-Si bien el proyecto se encuentra finalizado, queriamos dejar un listado de posibles mejoras y continuaciones que podrian ser tomadas en cuenta para el futuro.
+## 🚀 Posibles mejoras
+Si bien el proyecto se encuentra finalizado, queriamos dejar un listado de posibles mejoras y continuaciones que podrian ser tomadas en cuenta en el futuro.
 - Mejorar la cantidad de consultas realizadas.
 - Optimizar la reproduccion de audio.
 - Optimizar la reproduccion de video.
-- Implementar las funcionalidades faltantes.
+- Implementar las features (optativas) que decidimos no tomar.
 - Realizar pruebas de carga y stress para verificar la resistencia de nuestra aplicacion y nuestra base.
 - Realizar pruebas de usabilidad siendo nosotros mismos los usuarios para verificar la experiencia de usuario y los problemas potenciales actuales.
 - Entre otros.
