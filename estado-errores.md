@@ -81,7 +81,7 @@ nav_order: 3
 
 ---
 
-## 🚧 Funcionalidades incompletas o por pulir
+## 🚧 Funcionalidades no implementadas
 
 - [ ] Autocompletar metadatos (“Fast Complete”) [IA]
 - [ ] Disponibilidad por región y ventana
